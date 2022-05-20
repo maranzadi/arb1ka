@@ -1,4 +1,3 @@
-<! ––jjj>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,7 +8,7 @@
     />
     <!-- Linking external css -->
     <link rel="stylesheet" href="../styles/main.css" />
-    <link rel="stylesheet" href="../styles/disclaimer.css" />
+    <link rel="stylesheet" href="../styles/contact.css" />
     <!-- Linking Bootstrap Grid System -->
     <link rel="stylesheet" href="../styles/bootstrap-grid.min.css" />
     <!-- Importing google fonts -->
@@ -27,7 +26,7 @@
       href="https://img.icons8.com/ios-filled/50/000000/v-symbol.png"
       type="image/x-icon"
     />
-    <title>Disclaimer</title>
+    <title>Saioa hasi</title>
 
     <!-- Embeding Main Javascript -->
     <script src="../js/main.js"></script>
@@ -42,10 +41,10 @@
               <a href="../index.html" class="logo-link"
                 ><img
                   class="logo"
-                  src="https://i.pinimg.com/originals/84/0e/95/840e95c91411fa024b9e1338c45dcf7b.png"
+                  src="../Images/Logoa.svg"
                   alt="logo"
                 />
-                <h4 class="logo-head">VIHAR VALLEY</h4>
+                <h4 class="logo-head">ARBIKA</h4>
               </a>
             </div>
             <div class="hamburgerIcon">
@@ -61,13 +60,13 @@
                 ><li class="nav-unit">HOME</li></a
               >
               <a class="nav-link" href="../html/gallery.html"
-                ><li class="nav-unit">GALLERY</li></a
+                ><li class="nav-unit">GALERIA</li></a
               >
               <a class="nav-link" href="../html/membership.html"
-                ><li class="nav-unit">MEMBERSHIP</li></a
+                ><li class="nav-unit">KIDETZA</li></a
               >
               <a class="nav-link" href="../html/contact.html"
-                ><li class="nav-unit">CONTACT US</li></a
+                ><li class="nav-unit">JARRI GUREKIN HARREMANETAN</li></a
               >
             </ul>
           </nav>
@@ -77,51 +76,65 @@
       <!-- Main content section -->
       <main class="row">
         <div class="col-12">
-          <h1 class="sub-head">Desclaimer..!</h1>
-          <div class="disclaimer-container">
-            <div class="card col-11 col-md-9 col-lg-8 col-xl-4">
-              <ul>
-                <li>This is the demo project website.</li>
-                <li>
-                  The photos and all other contents used in website<br />taken
-                  from Google, only for demo.
-                </li>
-                <li>
-                  The company name used is taken by self not under any company
-                  or property.
-                </li>
-                <li>
-                  The design is made by the respective owner of the website
-                </li>
-                <li>
-                  If you have any queries, to contact the website owner
-                  <a href="https://linktr.ee/darshanr" target="_blank"
-                    >click here</a
-                  >.
-                </li>
-              </ul>
-            </div>
+          <h1 class="sub-head">Saioa hasteko</h1>
+         
+            >
+            <div class="contact-container">
+            <form class="col-12 col-sm-10 col-md-8 col-lg-6" action="https://formspree.io/f/mnqwlyyn"   method="POST">
+              <label for="fname">Korreo elektronikoa</label>
+              <input
+                type="text"
+                id="fname"
+                name="firstname"
+                placeholder="Korreo elektronikoa"
+                class="col-12"
+                required
+              />          
+              <label for="lname">Erabiltzailearen ID-a</label>
+              <input
+                type="text"
+                id="mid"
+                name="mid"
+                class="col-12"
+                placeholder="Erabiltzailearen ID-a"
+              />   
+              <label for="lname">Pasahitza</label>
+              <input
+                type="password"
+                id="mid"
+                name="mid"
+                class="col-12"
+                placeholder="Pasahitza"
+              />              
+              <div class="btn">
+                
+                <button class="btn-enq" type="submit">Bidali</button></a>
+                
+
+              </div>
+             </form> 
           </div>
         </div>
       </main>
+
       <!-- Footer section with address, office time, socail media
   links and copyright credits-->
       <footer class="row justify-content-center">
         <div class="footer-block col-lg-10">
           <div class="info-block row">
             <div class="address col-12 col-md">
-              <h4>ADDRESS</h4>
+              <h4>HELBIDEA</h4>
               <address>
-                Akshya Nagar 1st Block 1st Cross,<br />
-                HSR Layout, Bangalore-560016<br />Tel: +91(702)-01-2030
+                Alejandria Kalea, 2 BAJO, Donostia/San Sebastián,<br />
+                Tel: 943 89 92 92
               </address>
             </div>
             <div class="office-time col-12 col-md">
-              <h4>OFFICE TIME</h4>
-              <p>Monday to Saturday<br />10:00am | 6:00pm</p>
+              <h4>BULEGO ORDUA</h4>
+              <p>Astelehenetik larunbatera<br />10:00am | 6:00pm</p>
             </div>
             <div class="follow col-12 col-md">
-              <h4>FOLLOW US</h4>
+              <h4>JARRAI GAITZAZU</h4>
               <p>
                 <a
                   class="social-link"
@@ -145,8 +158,8 @@
           </div>
           <div class="col-12">
             <p class="credits">
-              Demo Website.&copy2020.Designed by
-              <a href="https://www.linkedin.com/in/darshanr27">Darshan R</a>
+              
+              <a href="https://github.com/maranzadi">Manex Aranzadi</a>
             </p>
           </div>
         </div>
