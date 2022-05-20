@@ -1,0 +1,1552 @@
+Uri: https://cookie-cdn.cookiepro.com/consent/1a48679a-c11d-42bf-90ec-271bc8094fc5/OtAutoBlock.js
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\consent\1a48679a-c11d-42bf-90ec-271bc8094fc5\OtAutoBlock.js
+Content Type: application/x-javascript
+
+Uri: https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\scripttemplates\otSDKStub.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/aviso-legal/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\aviso-legal\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/comments/feed/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fincasugalde.com/contacto/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\contacto\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/feed/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=A32352&agencia=ugalde&link=fincasugalde.com/venta/duplex/donostia-san-sebastian/centro/A32352/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\ficha_-3.pdf
+Content Type: application/pdf
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=A32451&agencia=ugalde&link=fincasugalde.com/venta/piso/donostia-san-sebastian/centro/A32451/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\ficha_-2.pdf
+Content Type: application/pdf
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=A32525&agencia=ugalde&link=fincasugalde.com/venta/casa/donostia-san-sebastian/ategorrieta-ulia/A32525/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\ficha_.pdf
+Content Type: application/pdf
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=A32536&agencia=ugalde&link=fincasugalde.com/venta/piso/donostia-san-sebastian/centro/A32536/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\ficha_-1.pdf
+Content Type: application/pdf
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=A32611&agencia=ugalde&link=fincasugalde.com/venta/piso/donostia-san-sebastian/centro/A32611/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\ficha_-4.pdf
+Content Type: application/pdf
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=ficha&agencia=&link=fincasugalde.com/inmuebles/ficha/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index-10.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=fondo-slider.jpg&agencia=&link=fincasugalde.com/wp-content/themes/fincasugalde/images/fondo-slider.jpg/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index-9.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=fontello.eot&agencia=&link=fincasugalde.com/wp-content/themes/fincasugalde/font/fontello.eot/?35851473
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=fontello.svg&agencia=&link=fincasugalde.com/wp-content/themes/fincasugalde/font/fontello.svg/?35851473
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index-3.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=fontello.ttf&agencia=&link=fincasugalde.com/wp-content/themes/fincasugalde/font/fontello.ttf/?35851473
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index-2.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=fontello.woff&agencia=&link=fincasugalde.com/wp-content/themes/fincasugalde/font/fontello.woff/?35851473
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index-1.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=glyphicons-halflings-regular.eot&agencia=&link=fincasugalde.com/wp-content/themes/fincasugalde/fonts/glyphicons-halflings-regular.eot/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index-4.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=glyphicons-halflings-regular.svg&agencia=&link=fincasugalde.com/wp-content/themes/fincasugalde/fonts/glyphicons-halflings-regular.svg/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index-8.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=glyphicons-halflings-regular.ttf&agencia=&link=fincasugalde.com/wp-content/themes/fincasugalde/fonts/glyphicons-halflings-regular.ttf/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index-7.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=glyphicons-halflings-regular.woff&agencia=&link=fincasugalde.com/wp-content/themes/fincasugalde/fonts/glyphicons-halflings-regular.woff/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index-6.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/ficha-pdf/?referencia=glyphicons-halflings-regular.woff2&agencia=&link=fincasugalde.com/wp-content/themes/fincasugalde/fonts/glyphicons-halflings-regular.woff2/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\ficha-pdf\index-5.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/inmuebles-de-lujo/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\inmuebles-de-lujo\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/inmuebles/?operacion=Venta&tipo=Piso&localidad=3163&zonas=&habitaciones=1&banos=0&metrosMin=0&metrosMax=300&orden=precioVenta DESC
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\inmuebles\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/inmuebles/ficha/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\inmuebles\ficha\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/nosotros/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\nosotros\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/politica-de-cookies/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\politica-de-cookies\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/politica-de-privacidad/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\politica-de-privacidad\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/venta/casa/donostia-san-sebastian/ategorrieta-ulia/A32525/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\venta\casa\donostia-san-sebastian\ategorrieta-ulia\A32525\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/venta/duplex/donostia-san-sebastian/centro/A32352/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\venta\duplex\donostia-san-sebastian\centro\A32352\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/venta/piso/donostia-san-sebastian/centro/A32451/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\venta\piso\donostia-san-sebastian\centro\A32451\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/venta/piso/donostia-san-sebastian/centro/A32536/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\venta\piso\donostia-san-sebastian\centro\A32536\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/venta/piso/donostia-san-sebastian/centro/A32611/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\venta\piso\donostia-san-sebastian\centro\A32611\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://fincasugalde.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://fincasugalde.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/bootstrap.min.css?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/exin10.css?ver=1588853890
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\exin10.css
+Content Type: text/css
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/font-awesome/css/font-awesome.min.css?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/fontello.css?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\fontello.css
+Content Type: text/css
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/css/nouislider.css?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\css\nouislider.css
+Content Type: text/css
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/favicon/apple-touch-icon.png
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/favicon/favicon-16x16.png
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/favicon/favicon-32x32.png
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/favicon/favicon.ico
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\favicon\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/favicon/manifest.json
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\favicon\manifest.json
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/favicon/safari-pinned-tab.svg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/font/fontello.eot/?35851473
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\font\fontello.eot\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/font/fontello.svg/?35851473
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\font\fontello.svg\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/font/fontello.ttf/?35851473
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\font\fontello.ttf\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/font/fontello.woff/?35851473
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\font\fontello.woff\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/fonts/glyphicons-halflings-regular.eot/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\fonts\glyphicons-halflings-regular.eot\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/fonts/glyphicons-halflings-regular.svg/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\fonts\glyphicons-halflings-regular.svg\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/fonts/glyphicons-halflings-regular.ttf/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\fonts\glyphicons-halflings-regular.ttf\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/fonts/glyphicons-halflings-regular.woff/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\fonts\glyphicons-halflings-regular.woff\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/fonts/glyphicons-halflings-regular.woff2/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\fonts\glyphicons-halflings-regular.woff2\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/elena-ruiz-munain.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\elena-ruiz-munain.jpg
+Content Type: image/jpeg
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/eva-adan.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\eva-adan.jpg
+Content Type: image/jpeg
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/exin10-logo-blanco.png
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\exin10-logo-blanco.png
+Content Type: image/png
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/fincas-ugalde-exin-10.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\fincas-ugalde-exin-10.jpg
+Content Type: image/jpeg
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/Fincas-Ugalde-Logo.png
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\Fincas-Ugalde-Logo.png
+Content Type: image/png
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/fincas-ugalde-sin-logo.png
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\fincas-ugalde-sin-logo.png
+Content Type: image/png
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/fondo-slider.jpg/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\fondo-slider.jpg\index.htm
+Content Type: text/html
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/grupo-exin10-content.png
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\grupo-exin10-content.png
+Content Type: image/png
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/katixa-ruiz-munain.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\katixa-ruiz-munain.jpg
+Content Type: image/jpeg
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/loading-spin.svg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\loading-spin.svg
+Content Type: image/svg+xml
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/maite-izaguirre-morras.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\maite-izaguirre-morras.jpg
+Content Type: image/jpeg
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/maria-jose-ugalde.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\maria-jose-ugalde.jpg
+Content Type: image/jpeg
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/nosotros-1.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\nosotros-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/portada-etxabe.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\portada-etxabe.jpg
+Content Type: image/jpeg
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/triplevdoble.png
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\triplevdoble.png
+Content Type: image/png
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/Ugalde-Exin10-Pie.png
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\Ugalde-Exin10-Pie.png
+Content Type: image/png
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/ugalde-seccion-deluxe.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\ugalde-seccion-deluxe.jpg
+Content Type: image/jpeg
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/images/vendido-h.png
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\images\vendido-h.png
+Content Type: image/png
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/js/analytics.js?ver=5.2.15
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\js\analytics.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/js/bootstrap.min.js?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/js/eventos.js?ver=1588832336
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\js\eventos.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/js/ficha.js?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\js\ficha.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/js/fincasugalde.js?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\js\fincasugalde.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/js/google-maps.js?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\js\google-maps.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/js/nosotros.js?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\js\nosotros.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/js/nouislider.js?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\js\nouislider.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/js/portada.js?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\js\portada.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-content/themes/fincasugalde/style.css?ver=1652779234
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-content\themes\fincasugalde\style.css
+Content Type: text/css
+
+Uri: https://fincasugalde.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.15
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://fincasugalde.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-includes/js/jquery/jquery.js?ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-includes/js/wp-embed.min.js?ver=5.2.15
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://fincasugalde.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://fincasugalde.com/wp-json/
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2F
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2F&format=xml
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Faviso-legal%2F
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Faviso-legal%2F&format=xml
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Fcontacto%2F
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Fcontacto%2F&format=xml
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Finmuebles%2F
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Finmuebles%2F&format=xml
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Finmuebles%2Fficha%2F
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Finmuebles%2Fficha%2F&format=xml
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Finmuebles-de-lujo%2F
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Finmuebles-de-lujo%2F&format=xml
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Fnosotros%2F
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Fnosotros%2F&format=xml
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Fpolitica-de-cookies%2F
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Fpolitica-de-cookies%2F&format=xml
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Fpolitica-de-privacidad%2F
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://fincasugalde.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffincasugalde.com%2Fpolitica-de-privacidad%2F&format=xml
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://fincasugalde.com/xmlrpc.php?rsd
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Changa|Roboto:400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C300%2C300italic|Work+Sans:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&ver=20161201
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100,400,400i,700,700i,900
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/changa/v18/2-c79JNi2YuVOUcOarRPgnNGooxCZ62xcjfj8g.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\changa\v18\2-c79JNi2YuVOUcOarRPgnNGooxCZ62xcjfj8g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBi8Jow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBi8Jow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBi8Jow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBi8Jow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v17/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jow.ttf
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\s\worksans\v17\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_002.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_002.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_003.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_003.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_004.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_004.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_005.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_005.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_006.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_006.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_007.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_007.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_008.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_008.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_009.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_009.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_010.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_010.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_011.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_011.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_012.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_012.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_013.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_013.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_014.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_014.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_015.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_015.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_016.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_016.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_017.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_017.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_018.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_018.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_019.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_019.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_020.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_020.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_021.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_021.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_022.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_022.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_023.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_023.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_024.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_024.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_025.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_025.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_026.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_026.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_027.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_027.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_028.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_028.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_029.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_029.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_030.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_030.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_031.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_031.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_032.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_032.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_033.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_033.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_034.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_034.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_035.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_035.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_036.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_036.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_037.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_037.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_038.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_038.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_039.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_039.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_040.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_040.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_041.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_041.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_042.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_042.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_043.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_043.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_044.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_044.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_045.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_045.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_046.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_046.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_047.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_047.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_048.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_048.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_049.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_049.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32352_050.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32352_050.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_002.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_002.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_003.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_003.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_004.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_004.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_005.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_005.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_006.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_006.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_007.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_007.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_008.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_008.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_009.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_009.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_010.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_010.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_011.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_011.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_012.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_012.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_013.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_013.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_014.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_014.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_015.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_015.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_016.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_016.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_017.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_017.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_018.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_018.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_019.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_019.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_020.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_020.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_021.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_021.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_022.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_022.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_023.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_023.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32451_024.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32451_024.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_002.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_002.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_003.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_003.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_004.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_004.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_005.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_005.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_006.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_006.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_007.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_007.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_008.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_008.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_009.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_009.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_010.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_010.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_011.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_011.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_012.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_012.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_013.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_013.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_014.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_014.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_015.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_015.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_016.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_016.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_017.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_017.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_018.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_018.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_019.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_019.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_020.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_020.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_021.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_021.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_022.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_022.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_023.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_023.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_024.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_024.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_025.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_025.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_026.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_026.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_027.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_027.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_028.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_028.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_029.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_029.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_030.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_030.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_031.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_031.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_032.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_032.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_033.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_033.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_034.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_034.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_035.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_035.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_036.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_036.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_037.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_037.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_038.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_038.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_039.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_039.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_040.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_040.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_041.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_041.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_042.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_042.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_043.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_043.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_044.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_044.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_045.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_045.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_046.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_046.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_047.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_047.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_048.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_048.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_049.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_049.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_050.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_050.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_051.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_051.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_052.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_052.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_053.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_053.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_054.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_054.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_055.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_055.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_056.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_056.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_057.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_057.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_058.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_058.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_059.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_059.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_060.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_060.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_061.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_061.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_062.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_062.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_063.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_063.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_064.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_064.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_065.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_065.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32525_066.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32525_066.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_002.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_002.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_003.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_003.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_004.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_004.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_005.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_005.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_006.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_006.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_007.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_007.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_008.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_008.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_009.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_009.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_010.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_010.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_011.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_011.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_012.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_012.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_013.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_013.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_014.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_014.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_015.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_015.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_016.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_016.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_017.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_017.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_018.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_018.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_019.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_019.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_020.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_020.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_021.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_021.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_022.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_022.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_023.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_023.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_024.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_024.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_025.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_025.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_026.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_026.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_027.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_027.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_028.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_028.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_029.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_029.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_030.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_030.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_031.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_031.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_032.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_032.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_033.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_033.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_034.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_034.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_035.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_035.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_036.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_036.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_037.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_037.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_038.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_038.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_039.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_039.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_040.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_040.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32536_041.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32536_041.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_002.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_002.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_003.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_003.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_004.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_004.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_005.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_005.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_006.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_006.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_007.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_007.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_008.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_008.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_009.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_009.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_010.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_010.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_011.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_011.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_012.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_012.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_013.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_013.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_014.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_014.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_015.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_015.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_016.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_016.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_017.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_017.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_018.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_018.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_019.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_019.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_020.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_020.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_021.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_021.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_022.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_022.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_023.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_023.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_024.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_024.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_025.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_025.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/360x/A32611_026.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\360x\A32611_026.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32352_001.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32352_001.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32352_002.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32352_002.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32352_003.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32352_003.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32352_004.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32352_004.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32352_005.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32352_005.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32451_001.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32451_001.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32451_002.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32451_002.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32451_003.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32451_003.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32451_004.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32451_004.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32451_005.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32451_005.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32525_001.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32525_001.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32525_002.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32525_002.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32525_003.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32525_003.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32525_004.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32525_004.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32525_005.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32525_005.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32536_001.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32536_001.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32536_002.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32536_002.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32536_003.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32536_003.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32536_004.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32536_004.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32536_005.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32536_005.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32611_001.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32611_001.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32611_002.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32611_002.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32611_003.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32611_003.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32611_004.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32611_004.jpg
+Content Type: image/jpeg
+
+Uri: https://grupoexin10.com/fotos/768x576/A32611_005.jpg
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\fotos\768x576\A32611_005.jpg
+Content Type: image/jpeg
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Finmuebles%25252Fficha%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-15.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fventa%25252Fcasa%25252Fdonostia-san-sebastian%25252Fategorrieta-ulia%25252FA32525%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-10.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fventa%25252Fduplex%25252Fdonostia-san-sebastian%25252Fcentro%25252FA32352%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-13.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fventa%25252Fpiso%25252Fdonostia-san-sebastian%25252Fcentro%25252FA32451%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-12.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fventa%25252Fpiso%25252Fdonostia-san-sebastian%25252Fcentro%25252FA32536%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-11.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fventa%25252Fpiso%25252Fdonostia-san-sebastian%25252Fcentro%25252FA32611%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-14.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fwp-content%25252Fthemes%25252Ffincasugalde%25252Ffont%25252Ffontello.eot%25252F%25253F35851473%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fwp-content%25252Fthemes%25252Ffincasugalde%25252Ffont%25252Ffontello.svg%25252F%25253F35851473%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-3.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fwp-content%25252Fthemes%25252Ffincasugalde%25252Ffont%25252Ffontello.ttf%25252F%25253F35851473%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-2.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fwp-content%25252Fthemes%25252Ffincasugalde%25252Ffont%25252Ffontello.woff%25252F%25253F35851473%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-1.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fwp-content%25252Fthemes%25252Ffincasugalde%25252Ffonts%25252Fglyphicons-halflings-regular.eot%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-4.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fwp-content%25252Fthemes%25252Ffincasugalde%25252Ffonts%25252Fglyphicons-halflings-regular.svg%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-8.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fwp-content%25252Fthemes%25252Ffincasugalde%25252Ffonts%25252Fglyphicons-halflings-regular.ttf%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-7.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fwp-content%25252Fthemes%25252Ffincasugalde%25252Ffonts%25252Fglyphicons-halflings-regular.woff%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-6.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fwp-content%25252Fthemes%25252Ffincasugalde%25252Ffonts%25252Fglyphicons-halflings-regular.woff2%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-5.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Ffincasugalde.com%25252Fwp-content%25252Fthemes%25252Ffincasugalde%25252Fimages%25252Ffondo-slider.jpg%25252F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Des_ES&refsrc=deprecated&locale2=es_ES&_rdr
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\cookie\consent_prompt\index-9.htm
+Content Type: application/xhtml+xml
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyCax_kvk9XDxcBMP9G74V2_sW4OQOffusA&ver=5.2.15
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://npmcdn.com/imagesloaded@4.1.4/imagesloaded.pkgd.min.js
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\imagesloaded@4.1.4\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.min.js
+File Name: C:\Users\manex\OneDrive\Desktop\fincasugalde.com\masonry-layout@4.2.2\dist\masonry.pkgd.min.js
+Content Type: application/javascript
+

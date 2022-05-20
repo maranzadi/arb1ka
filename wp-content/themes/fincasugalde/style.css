@@ -1,0 +1,1590 @@
+/*
+Theme Name: Fincas Ugalde
+Theme URI: https://fincasugalde.com/
+Author: Triplevdoble
+Author URI: https://triplevdoble.com
+Description: Tema creado por Triplevdoble para Fincas Ugalde
+Version: 1.0.0
+Text Domain: fincasugalde
+Tags:
+
+*/
+
+/* COOKIES COOKIE PRO */
+#onetrust-consent-sdk #onetrust-accept-btn-handler, #onetrust-banner-sdk #onetrust-reject-all-handler {
+	background-color: #333 !important;
+	border-color: #333 !important;
+	color: #fff !important;
+}  
+
+#onetrust-consent-sdk #onetrust-pc-btn-handler, #onetrust-consent-sdk #onetrust-pc-btn-handler.cookie-setting-link {
+	background-color: #333 !important;
+	border-color: #333 !important;
+	color: #fff !important;
+}  
+
+#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h5, #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy h6, #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy li, #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy p, #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy a, #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy span, #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy td, #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-description {
+	font-size: 14px !important;
+	line-height: 2.4rem !important;
+}
+
+#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy #cookie-policy-title {
+	display: none !important;
+}
+
+#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy .ot-sdk-cookie-policy-group {
+	font-size: 14px !important;
+}
+
+#ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table , #ot-sdk-cookie-policy-v2.ot-sdk-cookie-policy table {
+	font-size: 14px !important;
+}
+
+#ot-sdk-btn-floating.ot-floating-button {
+	display: none;
+}
+
+
+#onetrust-consent-sdk #onetrust-pc-sdk button:not(#clear-filters-handler):not(.ot-close-icon):not(#filter-btn-handler):not(.ot-remove-objection-handler):not(.ot-obj-leg-btn-handler):not([aria-expanded]):not(.ot-link-btn), #onetrust-consent-sdk #onetrust-pc-sdk .ot-leg-btn-container .ot-active-leg-btn {
+	background-color: #333 !important;
+	border-color: #333 !important;
+	color: #fff !important;
+}
+
+/* COOKIES COOKIE PRO */
+
+/* Vídeo en ficha */
+.video-inmueble-ficha {
+    position: relative;
+    padding-bottom: 56.30%;
+    padding-top: 30px;
+    height: 0;
+}
+.video-inmueble-ficha iframe,   
+.video-inmueble-ficha object,  
+.video-inmueble-ficha embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100%;
+}
+
+.screen-reader-text{
+	display:none;
+}
+
+body {
+	font-family: "Montserrat", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+}
+
+.content-area p {
+    line-height: 2.4rem;
+}
+
+.site-footer{
+	background-color:#000;
+	color:#fff;
+}
+
+
+
+h3 {
+    color: #1a1818;
+    font-size: 2rem;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin: 1rem 0;
+    letter-spacing: -0.1rem;
+}
+
+.seccion-deluxe{
+	background-color:#ccad8e;
+	text-align:center;
+	margin-bottom:45px;
+	color:#fff;
+	position:relative;
+	height:200px;
+		background-image:url(images/ugalde-seccion-deluxe.jpg);
+	background-position:center center;
+	background-size:cover;
+}
+
+.centrado-total{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+
+.seccion-camino {
+    background-color: #81a3ad;
+    text-align: left;
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+    color: #fff;
+	font-size: 14px;
+	line-height: 150%;
+}
+
+.texto-camino {
+    max-width: 360px;
+    margin: 17px;
+    display: block;
+}
+
+.buscador-avanzado {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin: 15px 0;
+    text-transform: uppercase;
+}
+.buscador-avanzado:hover {
+	color:white;
+}
+
+
+.seccion-deluxe span{
+	font-family: 'Montserrat', sans-serif;
+	font-weight:100;
+	text-transform:uppercase;
+	    font-size: 9vw;
+	display:block;
+	line-height:100%;
+
+}
+
+.seccion-deluxe span + span {
+    font-weight: 900;
+    letter-spacing: 6px;
+}
+
+.seccion-deluxe p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+    max-width: 600px;
+}
+
+
+.buscador-portada .flex-container {
+    background-color: rgba(255,255,255,1);
+    padding: 30px 30px 25px;
+    box-shadow: 0px 0px 11px rgba(0,0,0,0.03);
+	position:relative;
+	z-index:999;
+	border-radius:3px;
+}
+
+.seccion-camino {
+    color: #fff;
+    background-image: url(images/fincas-ugalde-exin-10.jpg);
+    background-position: top center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 56%;
+}
+
+.seccion-camino h3 {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+.seccion-camino h4 {
+    font-weight: bold;
+    margin-top: 11px;
+}
+
+
+.razones{
+	text-align:center;
+	margin:60px 0;
+}
+
+.razones h3 {
+    font-size: 2.4rem;
+    margin-bottom: 1rem;
+}
+
+.site-header ul{
+	text-align:right;
+	padding:0;
+}
+.site-header li{
+	display:inline-block;
+}
+
+.site-header{
+	padding:15px 0;
+	
+}
+
+.site-header li a {
+}
+.site-header li a {
+    color: #1a1818;
+    display: inline-block;
+    margin: 0 0 0 6px;
+}
+a {
+    color: #1a1818;
+}
+.site-header li {
+    list-style: none;
+    text-transform: uppercase;
+}
+
+.menu-movil {
+    margin: 15px 0 0 0;
+	display:none !important;
+}
+
+.menu-movil.on {
+	display:block !important;
+}
+
+.menu-movil ul {
+	padding:0;
+	margin:0;
+}
+
+.site-branding a{
+	display:inline-block;
+}
+
+.menu-movil li {
+    list-style: none;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    width: 100%;
+    display: block;
+    text-align: left;
+}
+
+.menu-movil li a {
+    color: #fff;
+    padding: 10px 15px;
+    display: inline-block;
+}
+
+ul.movil-extras {
+	background-color:#000;
+	padding:15px;
+}
+.movil-extras li{
+	display:inline;
+	font-size: 24px;
+}
+
+.movil-extras li a{
+	padding:0;
+}
+
+.movil-extras i{
+	background-color:#fff;
+	color:#000;
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    border-radius: 100%;
+    margin: 0;
+}
+
+
+.header-contact li {
+    text-transform: lowercase;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+.header-contact li::after {
+    content: "|";
+    margin-left: 12px;
+}
+
+.boton-movil {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    height: 50px;
+    width: 50px;
+    font-size: 28px;
+    text-align: center;
+    color: #fff;
+    background-color: black;
+    border: 0;
+	padding:0;
+	z-index:50;
+}
+
+
+.header-contact li:last-child::after{
+	content:"";
+	margin:0;
+}
+
+.current-menu-item {
+	font-weight:bold;
+}
+
+.header-social li a{
+	background-color:#000;
+	color:#fff;
+	display:inline-block;
+	width:42px;
+	height:42px;
+	line-height:42px;
+	text-align:center;
+	border-radius:100%;
+	margin:0;
+}
+.header-social li a i{
+	font-size:20px;
+	line-height:42px;
+}
+
+.site-branding img {
+    height: 85px;
+	width:auto;
+	clip: rect(0px,60px,200px,0px);
+}
+.buscador-portada {
+    /*background-image: url("http://www.fincasugalde.com/wp-content/themes/triplevdoble-inmotek-ugalde/images/inmobiliaria-donostia-1.jpg");*/
+    background-size: cover;
+    padding: 40px 0;
+    background-position: bottom center;
+	position:relative;
+}
+
+.page-template-page-portada .site-content {
+    padding: 0;
+}
+
+.page-template-page-portada .buscador {
+    margin-top: 0;
+}
+
+.slide_bg, .slide_bg_sup {
+    height: 280px;
+    width: 100%;
+    background: url(images/fondo-slider.jpg) no-repeat center;
+        background-image: url("images/fondo-slider.jpg");
+        background-position-x: center;
+        background-position-y: center;
+        background-size: auto auto;
+    background-image: url("images/fondo-slider.jpg");
+    background-position-x: center;
+    background-position-y: center;
+    background-size: auto auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: absolute;
+    z-index: 1;
+    background-position: bottom;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.site-content{
+	background-color:#f3f1f2;
+}
+
+.seccion-deluxe a{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	width:100%;
+	height:100%;
+	z-index:2;
+}
+
+.cargando.on {
+    background-color: rgba(0,0,0,0.8);
+}
+
+.buscador .desplegable.on .filtro {
+    border: 1px solid #ccc;
+}
+
+
+.contenedor-interior {
+    background-color: #fff;
+    padding: 15px;
+    margin: -15px;
+}
+
+
+.buscador .selector, .buscador .boton {
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 55px;
+    text-transform: none;
+    font-weight: normal;
+    padding: 0 10px;
+}
+
+.buscador .selector, .buscador .boton {
+	    background-color: #fff;
+    color: #000;
+
+    display: inline-block;
+    font-size: 12px;
+    height: 55px;
+    letter-spacing: 0;
+    line-height: 55px;
+    padding: 0 12px;
+    text-transform: uppercase;
+    border: 1px solid #1a1818;
+    font-weight: bold;
+    position: relative;
+    z-index: 100;
+    width: 100%;
+}
+
+
+
+.page-template-page-portada .buscador .selector, 
+.page-template-page-portada .buscador .boton {
+    background-color: #1a1818;
+    color: #fff;
+    letter-spacing: 3px;
+    padding: 0 20px;
+}
+
+.buscador-portada .boton {
+    box-shadow:none;
+}
+
+
+#filter-avanzados .filtro {
+    display: block;
+}
+
+.cont-inmueble {
+    margin-bottom: 40px;
+    min-height: 0;
+}
+
+.cont-inmueble-info-1{
+	position:relative;
+}
+
+.inmueble-ref{
+
+position:absolute;
+	top:15px;
+	left:15px;
+	z-index:1;
+}
+
+.cont-inmueble-foto{
+}
+
+.cont-inmueble-foto img{
+	width:100%;
+	height:auto;
+}
+
+
+.precio-contenedor{
+	border:2px solid #000;
+	border-left: 0;
+border-right: 0;
+text-align: right;
+padding: 11px 0;
+font-size: 27px;
+    padding: 3px 0;
+    font-size: 21px;
+
+font-weight: bold;
+
+}
+
+.precio-antes{
+	font-size:small;
+}
+
+
+.textos-contenedor .inmueble-foto-texto  {
+    display: inline-block;
+    height: auto;
+    overflow: hidden;
+}
+
+
+.inmueble-foto-texto h2 {
+    font-size: 18px;
+    line-height: 127%;
+    margin: 0px 0 7px 0;
+}
+
+
+.cont-inmueble-info .caracteristicas div {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 9px;
+	line-height:100%;
+	}
+
+
+
+.cont-inmueble-info .caracteristicas div:after {
+	content:"·";
+	margin:0 10px;
+}
+
+.cont-inmueble-info .caracteristicas div:last-child:after {
+	content:"";
+	margin:0x;
+}
+
+.cont-inmueble-titulos {
+    background-color: #000;
+    color: #fff;
+    padding: 15px;
+}
+
+.cont-inmueble-titulos h3, 
+.cont-inmueble-titulos h4{
+	margin:0;
+	padding:0;
+	text-transform:uppercase;
+	font-size:18px;
+}
+.cont-inmueble-titulos h3 {
+    font-size: 10px;
+    margin-bottom: 4px;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+
+.buscador-portada .selector.invertido, 
+.buscador-portada .boton.invertido, 
+buscador-portada .boton.invertido{
+    background-color: #fff;
+    border: 1px solid #fff;
+    color: #000;
+}
+
+.buscador-portada .selector.invertido:hover, 
+.buscador-portada .boton.invertido:hover, 
+buscador-portada .boton.invertido:hover{
+    border-color:#000;
+}
+
+
+.filtro ul:hover li:hover, .filtro ul:hover li a:hover, .filtro li.on, .filtro li.on a {
+    background-color: #1a1818 !important;
+}
+
+.filtro.zonas .zona-principal li {
+    border-radius: 0;
+    border: 1px solid #1a1818;
+}
+.filtro.zonas h3 {
+    color: #1a1818;
+}
+.filtro-basico li, .filtro a {
+    background-color: rgba(0,0,0,0.1);
+    color: #000;
+	font-weight:normal;
+}
+.filtro-basico li:nth-child(2n), .filtro li:nth-child(2n+1) a{
+    background-color: rgba(0,0,0,0.05);
+}
+
+
+.buscador-portada .boton:hover {
+    background-color: white;
+    border-color: black;
+    box-shadow: none;
+    color: black;
+}
+
+.buscador-portada .boton:active {
+    box-shadow: none;
+    transform:none;
+    -moz-transform:none;
+    -webkit-transform:none;
+    -ms-transform:none;
+    -o-transform:none;
+    box-shadow: none;
+    cursor: pointer;
+	border-width:1px;
+}
+
+.noUi-handle {
+    background: #1a1818;
+}
+
+.rangos {
+    color: #1a1818;
+    margin: 7px 0 0;
+}
+
+.buscador .selector.invertido, 
+.buscador .boton.invertido, 
+.boton.invertido {
+    background-color: #fff;
+    border: 1px solid #1a1818;
+    color: #1a1818;
+}
+.footer-tool {
+    background-color: #1a1818;
+    border-top: solid 2px white;
+}
+
+
+footer h2 {
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.header-social {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+footer li {
+    margin-bottom: 7px;
+    font-size: 12px;
+}
+
+footer ul{
+	padding-left:10px;
+}
+
+footer li{
+	
+}
+
+footer a{
+	color:#fff;
+}
+
+.portada-seccion  iframe{
+	width:100%;
+}
+
+.footer-contact{
+	font-size:14px;
+}
+
+.ugalde-personas img{
+	width:100%;
+	height:auto;
+}
+
+.galeria-nosotros{
+	width:100%;
+	height:auto;
+}
+
+.ficha-container {
+    background-color: #fff;
+    padding-top: 15px;
+}
+
+.ficha h1{
+	margin-top:0;
+}
+
+.site-content {
+    padding: 0;
+}
+
+.resumen dl {
+    background-color: #1a1818;
+}
+.resumen dl.precio {
+    color: #1a1818;
+}
+.ficha-galeria-grid {
+    border-bottom: 9px solid #1a1818;
+}
+
+.ficha .compartir {
+    border: 2px solid #1a1818;
+    color: #1a1818;
+}
+
+.ficha-situacion-cabecera {
+    background-color: #fff;
+    color: #1a1818;
+}
+.ficha-situacion-cabecera::after {
+    color: #1a1818;
+}
+
+.footer-tool .boton-inv {
+    color: #1a1818;
+}
+
+.ficha-galeria-grid-mas {
+    background-color: #1a1818;
+}
+.ficha-galeria-grid-mas:hover {
+    background-color: #000;
+}
+
+.main-navigation ul ul{
+	display:none;
+}
+
+.filtro-titulo {
+    margin: 0 0 10px;
+}
+
+.short-grupoexin hr {
+    margin: 2rem 0;
+	border-color: #cad2d3;
+}
+
+.ugalde-personas p {
+    text-align: center;
+}
+.ugalde-personas h4 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 1.8rem;
+}
+
+.short-grupoexin .logo-exin {
+    float: left;
+    width: 70px;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+
+.short-grupoexin .logo-exin {
+    float: left;
+    width: 100px;
+    margin-bottom: 0;
+    text-align: left;
+    height: 100px;
+    margin-top: 13px;
+	margin-bottom:15px;
+	
+}
+
+.short-grupoexin .logo-exin img {
+	width:100%;
+	height:auto;
+}
+
+
+.page-template-page-contacto  input[type="text"], 
+.page-template-page-contacto  input[type="email"],
+.page-template-page-contacto  input[type="tel"], 
+.page-template-page-contacto  textarea {
+    width: 100%;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 1px solid #cad2d3;
+    background: #f3f1f2;
+}
+
+.page-template-page-contacto input[type="submit"] {
+    background: #1a1818;
+    color: #FFF;
+    border: none;
+    font-size: 1.8rem;
+    padding: 0.5rem 3rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-bottom: 2rem;
+    display: inline-block;
+    width: auto;
+}
+
+.rgpd-label {
+    background-color: rgba(24, 19, 19, 0.1);
+    padding: 10px 20px;
+	margin-bottom:20px;
+    cursor: pointer;
+	font-weight:normal;
+}
+
+.rgpd-ficha-label {
+	font-size:16px !important;
+	letter-spacing:0px !important;
+}
+
+/* Consentimiento Cookies : INICIO */
+/*
+.cookies{
+	padding-bottom:30px;
+}
+
+body.cookies .cc-window{
+	transform:translateY(0);
+	transition:1s ease-in-out;
+	width:100%;
+}
+
+body .cc-window {
+	transform: translateY(125%);
+	transition:1s ease-in-out;
+	width:100%;
+}
+
+body .cc-banner.cc-theme-edgeless .cc-message {
+    margin: 1em !important;
+}
+*/
+/* Consentimiento Cookies : FIN */
+
+
+.page-template-page-contacto h2 {
+    font-size: 3rem;
+    text-align: left;
+	text-transform:uppercase;
+	margin:2rem 0;
+}
+
+.page-template-page-contacto  h1 {
+    font-size: 4.8rem;
+    margin-bottom: 2rem;
+	text-align: center;
+margin-top: 0;
+
+}
+
+.site-footer{
+	position:relative;
+}
+
+.magic-bg{
+	mix-blend-mode:normal;
+
+}
+
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2.7rem;
+    font-family: "montserrathairline", "Montserrat", Arial, Helvetica, sans-serif;
+    color: #1a1818;
+}
+
+.paginador {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    margin: 60px 0;
+    cursor: pointer;
+}
+
+.logo.visible-xs{
+	height:60px;
+	width:auto;
+}
+
+.contacto-magico {
+    background-color: #000;
+    color: #fff;
+    padding: 15px 0;
+}
+
+.contacto-magico input, .contacto-magico button, .contacto-magico select, .contacto-magico textarea {
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.contacto-magico label {
+    color: #fff;
+}
+.contacto-magico .form-control::-moz-placeholder {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.contacto-magico a{
+	color:#fff;
+}
+
+.contacto-magico button {
+    background-color: white;
+	color:#000;
+}
+
+
+.contacto-magico span {
+    background-color: #000;
+    color: #fff;
+}
+
+
+.page-template-page-inmuebles .site-footer,
+.page-template-page-ficha .site-footer{
+    padding-bottom: 50px;
+}
+
+.precio-ope {
+    line-height: 100%;
+    font-size: small;
+    margin: 0;
+    padding: 0;
+    display: flow-root;
+	width:100%;
+}
+
+
+.precio-antes {
+    line-height: 128%;
+    display: inline-block;
+}
+
+.precio-contenedor {
+    width: 100%;
+}
+
+.precio-contenedor {
+    font-size: 35px;
+    line-height: 100%;
+}
+
+#filter-avanzados .filtro{
+	display:none;
+}
+
+
+#filter-avanzados.on .filtro{
+	display:block;
+}
+
+.buscador{
+	margin-bottom:15px;
+}
+
+.fullscreen-buscador {
+background-color: rgba(0, 0, 0, 0.85);
+}
+
+.content-area .magic-search.magic-search-inv input {
+    color: #000;
+}
+
+.content-area .magic-search.magic-search-inv i {
+    color: #000;
+}
+.content-area .magic-search-fullwidth label {
+    color: black;
+}
+.content-area .magic-search.magic-search-inv {
+    border: 3px solid #000;
+}
+.content-area .magic-search-container {
+	margin-bottom:0px;
+}
+
+.resultados-cabecera{
+	margin:30px 0;
+}
+
+.firma-web{
+	text-align:right;
+}
+
+.firma-web img{
+    width: 100%;
+    max-width: 280px;
+}
+
+.pie-pagina{
+	margin-top:30px;
+}
+
+.triplevdoble{
+	float:right;
+}
+
+.padding-ugalde {
+    padding: 25px;
+}
+
+.buscador .selector > span {
+width: calc(100% - 42px);
+max-width: 100%;
+}
+
+.filtro.zonas .zona-principal li:nth-child(2n) {
+    margin-right: 4px;
+}
+
+.xflex-item {
+    margin-bottom: 5px;
+}
+
+.contacto-magico span {
+    height: 46px;
+}
+
+#boton-enviar-contacto-agencia {
+    text-align: left;
+    letter-spacing: 0;
+    padding-left: 76px;
+}
+
+#filter-tipos {
+    min-width: 101px;
+}
+
+.seccion-portada-somos-somos{
+	background-color:#474c6c;
+	color:#fff;
+	display:block;
+	margin-bottom:45px;
+}
+
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.row.no-gutters  [class^="col-"],
+.row.no-gutters  [class*=" col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.somos-grupo-exin {
+    position: static;
+    width: 100%;
+    text-align: center;
+    background-color: #474c6c;
+}
+
+.somos-centrado {
+    padding: 40px 0;
+}
+
+.somos-centrado img{
+	max-width:140px;
+	height:auto;
+	margin-bottom:30px;
+}
+
+.somos-centrado p{
+font-style: oblique;
+padding: 0 13%;
+font-size: 20px;
+}
+
+.deluxe-item{
+	position:relative;
+}
+
+.deluxe-item > a{
+	position:absolute;
+	top:0;
+	bottom:0;
+	width:100%;
+	height:100%;
+	z-index:2;
+}
+
+.deluxe-mosaico img{
+	float:left;
+}
+
+.deluxe-mosaico img.principal{
+	width:100%;
+}
+.deluxe-mosaico img{
+	width:50%;
+	border: 1px solid white;
+	box-sizing:border-box;
+}
+
+.deluxe-item {
+    margin-bottom: 30px;
+    display: inline-block;
+    border: 12px solid white;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.1);
+}
+
+.deluxe-info {
+    background-color: #000;
+    color: #fff;
+    padding: 0 15px;
+	float:left;
+    width: 100%;
+    border: 1px solid white;
+}
+
+.deluxe-info *{
+	color:#fff;
+}
+.deluxe-info .resumen dl {
+    background-color: #fff;
+    color: #000;
+    font-size: 11px;
+}
+.deluxe-info .resumen dl *{
+	color:#000;
+}
+
+.deluxe-info .resumen dl.precio *{
+	color:#fff;
+}
+.deluxe-info .resumen dl.precio {
+    background-color: transparent;
+    margin-bottom: 0;
+}
+.deluxe-info .ficha-situacion-cabecera {
+    background-color: transparent;
+}
+
+.deluxe-info .ficha-situacion-cabecera::after {
+    color: #fff;
+}
+
+.deluxe-mosaico img + img + img + img{
+	display:none;
+}
+
+.deluxe-info h1{
+	font-size:16px;
+}
+
+.deluxe-info .ficha-situacion-cabecera::after {
+    width: 34px;
+}
+
+.deluxe-info .ficha-situacion-cabecera {
+    padding: 15px 15px 15px 50px;
+}
+
+.seccion-deluxe p {
+    font-size: 17px;
+    line-height: 110%;
+}
+
+.seccion-deluxe .centrado-total {
+    width: 90%;
+}
+
+.seccion-deluxe p {
+    max-width: none;
+}
+
+.page-template-page-promocion .site-content {
+    background-color: #fff;
+}
+
+.page-template-page-promocion .tablas {
+    margin-top: 50px;
+}
+
+
+.page-template-page-promocion .tablas  tr td:last-child{
+    min-width: 120px;
+    text-align: center;
+}
+
+.promocion-escaparate-texto h2{
+	    text-shadow: 3px 2px 0px rgba(0,0,0,0.5);
+
+}
+
+.promocion-escaparate-texto h2 {
+    margin-bottom: 10px;
+}
+
+.promocion-escaparate-texto h1 {
+    font-size: 40px;
+    margin: 0 0 8px;
+    text-shadow: 3px 2px 0px rgba(0,0,0,1);
+}
+
+.seccion-promocion {
+    background-image: url(images/vendido-h.png), url(images/portada-etxabe.jpg);
+    background-position: center center, bottom center;
+    background-size: 100%, cover;
+    height: 260px;
+    margin-bottom: 40px;
+	color:#fff;
+	text-align:center;
+	font-family: 'Montserrat', sans-serif;
+	background-repeat:no-repeat;
+	
+}
+
+.seccion-promocion span {
+    font-size: 29px;
+    display: block;
+    font-weight: 100;
+    text-transform: uppercase;
+    line-height: 100%;
+}
+.seccion-promocion span:first-child{
+	font-size:8vw;
+
+}
+
+.logged-in .seccion-promocion {
+	display:block;
+}
+
+.seccion-promocion a{
+	color:#fff;
+}
+
+
+.seccion-promocion .boton {
+    background-color: #fff;
+    color: #000;
+    display: inline-block;
+    padding: 12px 28px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.page-template-page-portada .promocion-aviso {
+    font-style: italic;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-bottom: 21px;
+}
+
+
+.page-template-page-promocion .promocion-aviso {
+    font-style: italic;
+    font-size: 31px;
+    text-transform: uppercase;
+    margin-bottom: 21px;
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #999;
+    text-align: center;
+    color: #999;
+    margin-bottom: 50px;
+}
+
+.site-header .header-contact li:first-child{
+	display:block;
+}
+
+.site-header .header-contact a {
+	margin: 0;
+	font-size: inherit;
+}
+
+.header-contact li:first-child::after {
+    content: "";
+    margin-left: 0;
+}
+
+
+
+
+@media (min-width: 768px) {
+	
+
+	
+
+.seccion-promocion {
+    height: 420px;
+}
+
+	
+
+	
+
+.promocion-escaparate-texto h1 {
+    font-size: 90px;
+    margin: 0 00;
+    text-shadow: 3px 2px 0px rgba(0,0,0,1);
+}
+
+.seccion-deluxe .centrado-total{
+    width: auto;
+}
+
+.seccion-deluxe p {
+    max-width: 600px;
+}
+
+.seccion-deluxe p {
+    font-size: 24px;
+    line-height: auto;
+}
+
+.deluxe-info .ficha-situacion {
+    margin-top: 20px;
+}
+
+.deluxe-info .resumen dl {
+    font-size: inherit;
+}
+
+.deluxe-info h1{
+	font-size:2.7rem;
+}
+	
+	
+	
+.deluxe-mosaico img.principal{
+	width:50%;
+}
+.deluxe-mosaico img{
+	width:25%;
+		display:inline-block;
+
+}
+.deluxe-mosaico img + img + img + img{
+	display:inline-block;
+}
+
+
+	
+.somos-centrado{
+	position:absolute;
+	top:50%;
+	transform:translateY(-50%);
+	-moz-transform:translateY(-50%);
+	-webkit-transform:translateY(-50%);
+	-ms-transform:translateY(-50%);
+	padding:0;
+}
+
+	
+.somos-grupo-exin{
+	position:relative;
+	width:100%;
+	height:100%;
+	text-align: center;
+}	
+	
+.seccion-portada-somos-somos{
+	display:flex;
+}
+
+#boton-enviar-contacto-agencia {
+	font-size: 14px;
+}
+	
+	.contacto-magico span {
+    height: 59px;
+}
+
+
+#filter-avanzados .boton{
+	display:none;
+}
+
+#filter-avanzados .filtro{
+	display:block;
+}
+
+.ficha h1{
+	margin-top:15px;
+}
+
+
+.site-header {
+    padding: 30px 0;
+}
+
+
+.contenedor-interior{
+	margin:15px 0 0 0;
+}
+
+.contenedor-interior {
+    padding: 15px;
+    margin-top: 15px;
+}
+	
+	
+.site-content {
+    padding: 50px 0;
+}
+	
+.inmueble-foto-texto h2 {
+    margin: 0px 0 15px 0;
+}	
+
+.cont-inmueble {
+    min-height: 510px;
+}
+	
+.textos-contenedor .inmueble-foto-texto {
+    display: inline-block;
+    height: 49px;
+    overflow: hidden;
+}
+
+.cont-inmueble-info .caracteristicas div {
+    font-size: 16px;
+}	
+
+.padding-ugalde{
+	padding:45px;
+}
+.seccion-deluxe span{
+	font-size:70px;
+}
+
+.seccion-deluxe span + span {
+    letter-spacing: 18px;
+}
+.seccion-deluxe p{
+    font-size: 24px;
+}
+
+.seccion-deluxe {
+    height: 400px;
+}
+.buscador-portada {
+    padding: 310px 0;
+}
+
+.precio-contenedor{
+padding: 11px 0;
+font-size: 33px;
+}
+
+#boton-venta i, #boton-alquiler i{
+	display:none;
+}
+
+.site-header li a {
+    font-size: 10px;
+}
+
+.site-branding{
+	margin-left:20px;
+}
+
+.header-contact, .header-social, .main-navigation{
+	margin-right:20px;
+}
+
+
+.page-template-page-portada .promocion-aviso {
+    font-size: 31px;
+}
+
+}
+@media (min-width: 992px) {
+	
+
+	.seccion-promocion span{
+	font-size:90px;
+	}
+	
+	.seccion-promocion span:first-child{
+	font-size:40px;
+
+}
+
+	
+.site-branding img{
+	height:110px;
+}
+
+.site-header li a {
+	margin:0 0 0 15px;
+}
+
+
+.texto-camino {
+    width: 360px;
+    margin: 45px;
+}
+
+.seccion-camino {
+    font-size: 20px;
+	line-height: 170%;
+}
+
+.seccion-camino h3 {
+	margin-bottom:70px;
+}
+
+.seccion-camino h3 {
+    font-size: 35px;
+}
+
+.seccion-camino h4{
+	margin-top:30px;
+}
+
+	
+	
+.seccion-camino{
+	background-size:cover;
+	padding-top:0;
+}	
+	
+	
+.site-header li a {
+    font-size: 13px;
+}
+	
+#boton-venta i, #boton-alquiler i{
+	display:inline-block;
+}	
+	
+	.precio-ope {
+    display: inline-block;
+	width:auto;
+}
+
+.filtro.zonas li {
+    font-size: 11px;
+}
+
+#boton-enviar-contacto-agencia {
+	font-size: 17px;
+}
+
+.site-header .header-contact li:first-child{
+	display:inline;
+}
+
+.header-contact li:first-child::after {
+	content: "|";
+	margin-left: 12px;
+}
+
+
+
+}
+@media (min-width: 1200px) {
+	
+	.cont-inmueble-info .caracteristicas div {
+    font-size: 20px;
+}
+
+.filtro.zonas li {
+    font-size: 16px;
+}
+
+}
+@media (min-width: 1500px) {
+}
